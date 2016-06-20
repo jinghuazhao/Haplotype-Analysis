@@ -3,7 +3,7 @@ Genetic Data Analysis
 
 This repository is a collection of programs developed for analysis of genetic data. While there are now a lot of new programs for genomewide association analysis (GWAS) they form the basic elemements.  These programs were in the Rockefeller list currently available from https://github.com/gaow/genetic-analysis-software
  
-I have also converted some functionalities into R/gap available from CRAN (http::/cran.r-project.org).
+I have also converted some functionalities into R/gap available from CRAN (https://cran.r-project.org/).
 
 REFERENCES
 
