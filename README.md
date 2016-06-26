@@ -1,17 +1,22 @@
 # GDA
 Genetic Data Analysis
 
-2LD, EH+, FASTEH+, GENECOUNTING, HAP can be put in the same directory with call to the appropriate executables. EH+, FASTEH+ and GENECOUNTING can also share the same parameter and data file. I have tested them extensively under Windows, Sun, Dec Alpha and Linux systems. A brief comparison is shown in the following table. Program MCETDT (Monte Carlo module for the Extended Transmission Disequilibrium Test) is distributed with ETDT and unavailable from this site. Note to enter MS-DOS under the default setup for Windows Visa, you need to run c:\windows\system32\cmd.exe first. 
-
-Package name | Executable names| Documentation | Features | Limitations
--------------|-----------------|-------------------------|--------------
-2LD| 2ld | 2ld.doc, 2ld.htm|  D', SE(D'), Cramer's V for two multiallelic loci, r| Requires LDSHELL for many markers, does not show D' in graphics
-EH+ | eh, ehplus, fehp, pm, pmplus| pm.doc, pm.stm|  Model-free and permutation tests of allelic association. EH compatible and very easy to use. (having been the top paper in Hum Hered in 2005/6/7). Refman library as of Feb 2005 rmd and rmx) | Slower than FASTEH+ and GENECOUNTING but call FASTEH+ for permutation tests from version 1.2
-`
-
 This repository is a collection of programs developed for analysis of genetic data. While there are now a lot of new programs for genomewide association analysis (GWAS) they form the basic elemements.  These programs were in the Rockefeller list currently available from https://github.com/gaow/genetic-analysis-software
  
 I have also converted some functionalities into R/gap available from CRAN (https://cran.r-project.org/).
+
+**2LD**, **EH+**, **FASTEH+**, **GEECOUNTING((, **HAP** can be put in the same directory with call to the appropriate executables. **EH+**, **FASTEH+** and **GENECOUNTING** can also share the same parameter and data file. I have tested them extensively under Windows, Sun, Dec Alpha and Linux systems. A brief comparison is shown in the following table. Program **MCETDT** (Monte Carlo module for the Extended Transmission Disequilibrium Test) is distributed with **ETDT** and unavailable from this site. Note to enter MS-DOS under the default setup for Windows Visa, you need to run c:\windows\system32\cmd.exe first. 
+
+|Package name | Executable names| Documentation | Features | Limitations|
+-------------|-----------------|-------------------------|--------------
+2LD| 2ld | 2ld.doc, 2ld.htm|  D', SE(D'), Cramer's V for two multiallelic loci, r| Requires LDSHELL for many markers, does not show D' in graphics
+EH+ | eh, ehplus, fehp, pm, pmplus| pm.doc, pm.stm|  Model-free and permutation tests of allelic association. EH compatible and very easy to use. (having been the top paper in Hum Hered in 2005/6/7). Refman library as of Feb 2005 rmd and rmx) | Slower than FASTEH+ and GENECOUNTING but call FASTEH+ for permutation tests from version 1.2
+
+FASTEH+ | fpmp,fehp,pfehp | fpmp.doc | Faster algorithm and likelihood-based LD measures | Does not handle missing data, less statistics than EH+
+
+GENECOUNTING  | gc,gcp,gcx,pgc | gc.txt | Haplotype frequency estimation and reconstruction, flexible in missing data patterns and X chromosome data, haplotype-specific tests | Limited to about 15 SNPs and slow with multiple multiallelic loci with missing data
+`
+HAP |  hap,mia | hap.txt | Large number of SNPs and multiple imputations, missing data, multiallelic loci | Possibly sub-optimal solution
 
 ##R/#EFERENCES
 
