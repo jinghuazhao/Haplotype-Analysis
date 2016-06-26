@@ -41,7 +41,7 @@ Zhao, J. H. (2004). 2LD, GENECOUNTING and HAP: Computer programs for linkage dis
 Package name | Executable names| Documentation | Features | Limitations
 -------------|-----------------|---------------|----------|------------
 **2LD**| `2ld` | `2ld.doc`, `2ld.htm` |  D', SE(D'), Cramer's V for two multiallelic loci, r | Requires **LDSHELL** for many markers, does not show D' in graphics
-**EH+** | `eh`, `ehplus`, `fehp`, `pm`, `pmplus` | `pm.doc`, `pm.stm` |  Model-free and permutation tests of allelic association. EH compatible and very easy to use. (having been the top paper in Hum Hered in 2005/6/7). | Slower than **FASTEH+** and **GENECOUNTING** but call **FASTEH+** for permutation tests from version 1.2
+**EH+** | `eh`, `ehplus`, `fehp`, `pm`, `pmplus` | `pm.doc`, `pm.stm` |  Model-free and permutation tests of allelic association. **EH** compatible and very easy to use. (having been the top paper in Hum Hered in 2005/6/7). | Slower than **FASTEH+** and **GENECOUNTING** but call **FASTEH+** for permutation tests from version 1.2
 **FASTEH+** | `fpmp`,`fehp`,`pfehp` | `fpmp.doc` | Faster algorithm and likelihood-based LD measures | Does not handle missing data, less statistics than **EH+**
 **GENECOUNTING**  | `gc`,`gcp`,`gcx`,`pgc` | `gc.txt` | Haplotype frequency estimation and reconstruction, flexible in missing data patterns and X chromosome data, haplotype-specific tests | Limited to about 15 SNPs and slow with multiple multiallelic loci with missing data
 **HAP** |  `hap`,`mia` | `hap.txt` | Large number of SNPs and multiple imputations, missing data, multiallelic loci | Possibly sub-optimal solution
