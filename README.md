@@ -5,6 +5,7 @@ Genetic Data Analysis
 
 Package name | Executable names| Documentation| Features | Limitations
 -------------|-----------------|-------------------------|------------
+
 2LD| 2ld | 2ld.doc, 2ld.htm|  D', SE(D'), Cramer's V for two multiallelic loci, r| Requires LDSHELL for many markers, does not show D' in graphics
 EH+ | eh, ehplus, fehp, pm, pmplus| pm.doc, pm.stm|  Model-free and permutation tests of allelic association. EH compatible and very easy to use. (having been the top paper in Hum Hered in 2005/6/7). Refman library as of Feb 2005 rmd and rmx) | Slower than FASTEH+ and GENECOUNTING but call FASTEH+ for permutation tests from version 1.2
 
