@@ -1,5 +1,5 @@
-# GDA
-Genetic Data Analysis
+# Haplotype analysis
+Linkage disequilibrium, haplotype estimation and association Analysis
 
 This repository is a collection of programs developed for analysis of genetic data. While there are now a lot of new programs for genomewide association analysis (GWAS) they form the basic elemements.  These programs were in the Rockefeller list currently available from https://github.com/gaow/genetic-analysis-software
  
