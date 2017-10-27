@@ -7,7 +7,7 @@ I have also converted some functionalities into R/gap available from CRAN (https
 
 ### Application note
 
-**2LD**, **EH+**, **FASTEH+**, **GEECOUNTING**, **HAP** can be put in the same directory with call to the appropriate executables. **EH+**, **FASTEH+** and **GENECOUNTING** can also share the same parameter and data file. I have tested them extensively under Windows, Sun, Dec Alpha and Linux systems. A brief comparison is shown in the following table. Program **MCETDT** (Monte Carlo module for the Extended Transmission Disequilibrium Test) is distributed with **ETDT** and unavailable from this site. Note to enter MS-DOS under the default setup for Windows Vista, you need to run `c:\windows\system32\cmd.exe` first. 
+**2LD**, **EH+**, **FASTEH+**, **GENECOUNTING**, **HAP** can be put in the same directory with call to the appropriate executables. **EH+**, **FASTEH+** and **GENECOUNTING** can also share the same parameter and data file. I have tested them extensively under Windows, Sun, Dec Alpha and Linux systems. A brief comparison is shown in the following table. Program **MCETDT** (Monte Carlo module for the Extended Transmission Disequilibrium Test) is distributed with **ETDT** and unavailable from this site. Note to enter MS-DOS under the default setup for Windows Vista, you need to run `c:\windows\system32\cmd.exe` first. 
 
 Package name | Executable names| Documentation | Features | Limitations
 -------------|-----------------|---------------|----------|------------
