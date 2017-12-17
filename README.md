@@ -18,7 +18,7 @@ Package name | Executable names| Documentation | Features | Limitations
 **HAP** |  `hap`,`mia` | `hap.txt` | Large number of SNPs and multiple imputations, missing data, multiallelic loci | Possibly sub-optimal solution
 
 
-###REFERENCES
+### REFERENCES
 
 **2LD**
 
