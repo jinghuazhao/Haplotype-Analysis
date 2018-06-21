@@ -22,29 +22,29 @@ Package name | Executable names| Documentation | Features | Limitations
 
 **2LD**
 
-Zhao, J. H. (2004). 2LD, GENECOUNTING and HAP: Computer programs for linkage disequilibrium analysis. Bioinformatics, 20, 1325-1326
+Zhao, J. H. (2004). [2LD, GENECOUNTING and HAP: Computer programs for linkage disequilibrium analysis](https://jinghuazhao.github.io/paper/bi04.pdf). Bioinformatics, 20, 1325-1326
 
-Zapata C, Carollo C, Rodriguez S. (2001). Sampling variance and distribution of the D' measure of overall gametic disequlibrium between multiallelic loci. Annals of Human Genetics, 65, 395-406
+Zapata C, Carollo C, Rodriguez S. (2001). [Sampling variance and distribution of the D' measure of overall gametic disequlibrium between multiallelic loci](https://jinghuazhao.github.io/paper/zapata01.pdf). Annals of Human Genetics, 65, 395-406
 
 
 **EH+**
 
-Zhao, J. H., Curtis, D., Sham, P. C. (2000). Model-free analysis and permutation tests for allelic associations. Human Heredity, 50(2), 133-139
+Zhao, J. H., Curtis, D., Sham, P. C. (2000). [Model-free analysis and permutation tests for allelic associations](https://jinghuazhao.github.io/paper/hh00.pdf). Human Heredity, 50(2), 133-139
 
 
 **FASTEH+**
 
-Zhao, J. H., Sham, P. C. (2002). Faster allelic association analysis using unrelated subjects. Human Heredity, 53(1), 36-41
+Zhao, J. H., Sham, P. C. (2002). [Faster allelic association analysis using unrelated subjects. Human Heredity](https://jinghuazhao.github.io/paper/hh02.pdf), 53(1), 36-41
 
 
 **GENECOUNTING**
 
-Zhao, J. H, .Lissarrague, S., Essioux, L., Sham, P. C. (2002). GENECOUNTING: haplotype analysis with missing genotypes. Bioinformatics, 18(12), 1694-1695.
+Zhao, J. H, .Lissarrague, S., Essioux, L., Sham, P. C. (2002). [GENECOUNTING: haplotype analysis with missing genotypes](https://jinghuazhao.github.io/paper/bi02.pdf). Bioinformatics, 18(12), 1694-1695.
 
-Zhao, J. H. (2004). 2LD, GENECOUNTING and HAP: Computer programs for linkage disequilibrium analysis. Bioinformatics, 20, 1325-1326 
+Zhao, J. H. (2004). [2LD, GENECOUNTING and HAP: Computer programs for linkage disequilibrium analysis](https://jinghuazhao.github.io/paper/bi04.pdf). Bioinformatics, 20, 1325-1326 
 
 **HAP**
 
-Zhao, J. H. (2004). 2LD, GENECOUNTING and HAP: Computer programs for linkage disequilibrium analysis. Bioinformatics, 20, 1325-1326
+Zhao, J. H. (2004). [2LD, GENECOUNTING and HAP: Computer programs for linkage disequilibrium analysis](https://jinghuazhao.github.io/paper/bi04.pdf). Bioinformatics, 20, 1325-1326
 
 
