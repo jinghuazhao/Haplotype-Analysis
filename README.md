@@ -45,3 +45,7 @@ Zhao, J. H. (2004). [2LD, GENECOUNTING and HAP: Computer programs for linkage di
 **HAP**
 
 Zhao, J. H. (2004). [2LD, GENECOUNTING and HAP: Computer programs for linkage disequilibrium analysis](https://jinghuazhao.github.io/paper/bi04.pdf). Bioinformatics, 20, 1325-1326
+
+### Downloads
+
+The programs are available from https://github.com/jinghuazhao/Haplotype-Analysis.
