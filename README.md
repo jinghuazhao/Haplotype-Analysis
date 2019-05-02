@@ -1,4 +1,3 @@
-# Haplotype-analysis
 Linkage disequilibrium calculation, haplotype estimation and association Analysis
 
 While there are now a lot of new programs for genomewide association analysis (GWAS) they form the basic elemements.  These programs were in the Rockefeller list currently available from https://github.com/gaow/genetic-analysis-software
